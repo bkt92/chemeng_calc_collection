@@ -1,2 +1,2 @@
-# chemeng_calc_collection
-Calculation for design distillation column and concentrator
+# My chemical engineering design collections
+Calculation for design distillation column, concentrator and other
